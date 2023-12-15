@@ -533,6 +533,18 @@ class WPR_Templates_Data {
 					'label' => '',
 					'priority' => 7,
 				],
+				'v2' => [
+					'name' => 'OnePage Kit - Digital Agency',
+					'pages' => 'home,about-us,features,services,team,contact,shop,blog,',
+					'plugins' => '{"woocommerce":'. $is_woo_active .'}',
+					'tags' => 'marketing insight revenue product sales business solutions one page onepage one pages single page landing page shop digital agency digital marketing agency portfolio product freelancer',
+					'theme-builder' => true,
+					'woo-builder' => true,
+					'off-canvas' => true,
+					'price' => $is_pro_active ? 'free' : 'free',
+					'label' => 'new',
+					'priority' => 7,
+				],
 			],
 			'travel-blog' => [
 				'v1' => [

@@ -1,9 +1,9 @@
 === Royal Elementor Addons and Templates ===
 Contributors: WP Royal, rubeushagrid13, cyberpinky, elementoraddonswpr, ggedenidze1982, wprduke
 Tags: elementor, elementor templates, elementor addons, widgets for elementor, elementor widgets, elementor mega menu, elementor woocommerce builder, theme builder, header footer builder, elementor post grid, elementor product grid, addons for elementor
-Stable tag: 1.3.82
+Stable tag: 1.3.83
 Requires at least: 5.0
-Tested up to: 6.4.1
+Tested up to: 6.4.2
 Requires PHP: 5.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -189,7 +189,8 @@ and other custom branding related settings)
 - [**Car Wash**](https://demosites.royal-elementor-addons.com/carwash-v1/?ref=rea-wpo-pp-details-tab)
 - [**Pet Care**](https://demosites.royal-elementor-addons.com/pet-care-v1/?ref=rea-wpo-pp-details-tab)
 - [**Digital Marketing Agency**](https://demosites.royal-elementor-addons.com/digital-marketing-agency-v1/?ref=rea-wpo-pp-details-tab)
-- [**One Page Digital Marketing Agency**](https://demosites.royal-elementor-addons.com/one-page-v1/blog-one-page-v1/?ref=rea-wpo-pp-details-tab)
+- [**One Page Digital Marketing Agency v1**](https://demosites.royal-elementor-addons.com/one-page-v1/?ref=rea-wpo-pp-details-tab)
+- [**One Page Digital Marketing Agency v2**](https://demosites.royal-elementor-addons.com/one-page-v2/?ref=rea-wpo-pp-details-tab)
 - [**Travel Agency**](https://demosites.royal-elementor-addons.com/travel-agency-v1/?ref=rea-wpo-pp-details-tab)
 - [**Architecture & Interior**](https://demosites.royal-elementor-addons.com/architecture-v2/?ref=rea-wpo-pp-details-tab)
 - [**Fytness & Gym**](https://demosites.royal-elementor-addons.com/fitness-gym-v1/?ref=rea-wpo-pp-details-tab)
@@ -438,6 +439,9 @@ memory_limit 256M or more
 post_max_size 64M
 
 == Changelog ==
+= Royal Elementor Addons v1.3.83 - 2023-12-11 =
+* ADDED: One Page Digital Agency Kit - [**One Page Digital Agency Kit**](https://demosites.royal-elementor-addons.com/one-page-v2/?ref=rea-wpo-pp-details-tab).
+
 = Royal Elementor Addons v1.3.82 - 2023-12-06 =
 * ADDED: WPML Multilingual Translation Support for REA Theme Builder Templates.
 * FIXED: Minor Bugs.
