@@ -55,6 +55,7 @@ $cmsmasters_option = children_charity_get_global_options();
 <?php add_revslider('Slider-Home-11'); ?>	
 <!-- _________________________ Start Middle _________________________ -->
 <div id="middle">
+	
 <?php 
 
 children_charity_page_heading();
